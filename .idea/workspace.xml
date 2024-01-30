@@ -4,9 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a5f07b0-229b-4847-907c-0be474eebf4f" name="Changes" comment="COMP110 UNC">
+    <list default="true" id="8a5f07b0-229b-4847-907c-0be474eebf4f" name="Changes" comment="Project 1">
+      <change afterPath="$PROJECT_DIR$/examples/tkinter_dropdown_menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-10-Cinema-Ticket-Booking/banking.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-10-Cinema-Ticket-Booking/cinema.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-10-Cinema-Ticket-Booking/design.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-10-Cinema-Ticket-Booking/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-2-Flatmates-Bill/files/Report1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-2-Flatmates-Bill/files/design.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-2-Flatmates-Bill/files/house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-2-Flatmates-Bill/files/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-3-Project-Math-Painting/design.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-3-Project-Math-Painting/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-4-Webcam-Photo-Sharer/design-frontend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-4-Webcam-Photo-Sharer/design.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-4-Webcam-Photo-Sharer/images/down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-4-Webcam-Photo-Sharer/images/normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-4-Webcam-Photo-Sharer/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/flatmates_bill/files/design.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/flatmates_bill/files/house.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/flatmates_bill/flat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/flatmates_bill/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/flatmates_bill/reports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/templates/bill_form_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-5-Flatmates-Bill-Web-App/templates/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-6-Project-Calorie-Webapp/design.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-6-Project-Calorie-Webapp/headers_for_scraping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-6-Project-Calorie-Webapp/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-6-Project-Calorie-Webapp/static/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-6-Project-Calorie-Webapp/temperature.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-6-Project-Calorie-Webapp/templates/calories_form_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-6-Project-Calorie-Webapp/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-7-Automated-Emails/design.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-7-Automated-Emails/people.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-7-Automated-Emails/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-8-Instant-Dictionary-Webapp/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-8-Instant-Dictionary-Webapp/design/about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-8-Instant-Dictionary-Webapp/design/design.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-8-Instant-Dictionary-Webapp/design/dictionary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-8-Instant-Dictionary-Webapp/design/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-8-Instant-Dictionary-Webapp/examples/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-8-Instant-Dictionary-Webapp/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-9-Instant-Dictionary-API/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-9-Instant-Dictionary-API/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-9-Instant-Dictionary-API/definition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projects/oop_projects/App-9-Instant-Dictionary-API/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/project-1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/project-1/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/project-1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/calculator_projecr/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workspace.py" beforeDir="false" afterPath="$PROJECT_DIR$/workspace.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +94,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.extracting_date.executor": "Run",
+    "Python.fpdf_test.executor": "Run",
     "Python.main.executor": "Run",
     "Python.matching_email.executor": "Run",
     "Python.matching_phone_numbers.executor": "Run",
@@ -56,9 +106,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Python"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xanto\PycharmProjects\pythonProject\pythonProject1\projects\oop_projects\App-2-Flatmates-Bill\files" />
+      <recent name="C:\Users\xanto\PycharmProjects\pythonProject\pythonProject1" />
+      <recent name="C:\Users\xanto\PycharmProjects\pythonProject\pythonProject1\projects\oop_projects\App-2-Flatmates-Bill" />
+      <recent name="C:\Users\xanto\PycharmProjects\pythonProject\pythonProject1\projects\oop_projects\project-1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -107,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705512223620</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Project 1">
+      <option name="closed" value="true" />
+      <created>1705521087601</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705521087601</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +215,7 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="1/17/24" />
     <MESSAGE value="COMP110 UNC" />
-    <option name="LAST_COMMIT_MESSAGE" value="COMP110 UNC" />
+    <MESSAGE value="Project 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project 1" />
   </component>
 </project>
